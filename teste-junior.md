@@ -65,3 +65,7 @@ Devem ser utilizadas as seguintes tecnologias:
 - Criação do ambiente com Docker.
 
 ### Boa sorte!
+
+## Vamos estudar
+
+- Meio Cronológico para estudo [Estudo Cronológico](estudo.md)
